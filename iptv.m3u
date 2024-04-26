@@ -54,7 +54,7 @@ http://113.64.145.91:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-id=",汕头综合" tvg-name="汕头综合" tvg-logo="https://live.fanmingming.com/tv/汕头综合.png" group-title="卫视频道",汕头综合
 http://113.67.164.234:8888/udp/239.77.1.130:5146
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://113.67.164.234:8888/udp/239.77.0.92:5146
+http://113.67.164.234:8888/udp/239.77.1.148:5146
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://113.67.164.234:8888/udp/239.77.1.162:5146
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视频道",广东卫视
