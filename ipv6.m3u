@@ -217,6 +217,8 @@ http://nz189l149.bb27109.ctm.net:8892/bysid/82
 http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
 #EXTINF:-1 tvg-id="TVB星河台" tvg-name="TVB星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="测试频道",TVB星河台
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVB娱乐" tvg-name="TVB娱乐" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐.png" group-title="测试频道",TVB娱乐
+https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://live.fanmingming.com/tv/HBOHD.png" group-title="测试频道",HBO
 http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="测试频道",凤凰中文
