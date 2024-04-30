@@ -177,18 +177,11 @@ http://61.51.141.145:8888/rtp/239.3.1.236:2000
 http://111.196.131.234:8012/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="数字频道",梨园频道
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://live.fanmingming.com/tv/汕头综合.png" group-title="数字频道",汕头综合
-http://218.19.111.148:9999/udp/239.253.43.30:5146
-http://218.19.111.148:9999/udp/239.77.1.130:5146
-http://218.19.111.148:9999/udp/239.253.43.45:5146
 #EXTINF:-1 tvg-id="汕头经济" tvg-name="汕头经济" tvg-logo="https://live.fanmingming.com/tv/汕头经济.png" group-title="数字频道",汕头经济
-http://218.19.111.148:9999/udp/239.253.43.43:5146
-http://218.19.111.148:9999/udp/239.77.1.131:5146
-http://218.19.111.148:9999/udp/239.253.43.46:5146
-#EXTINF:-1 tvg-id="汕头文旅" tvg-name="汕头文旅" tvg-logo="https://live.fanmingming.com/tv/汕头文旅.png" group-title="数字频道",汕头文旅
-http://218.19.111.148:9999/udp/239.253.43.44:5146
-http://218.19.111.148:9999/udp/239.77.1.132:5146
-http://218.19.111.148:9999/udp/239.253.43.47:5146
+http://116.23.138.133:4000/udp/239.77.1.131:5146
+http://116.23.138.133:4000/udp/239.253.43.46:5146
+http://113.119.192.118:8899/udp/239.77.1.131:5146
+http://113.119.192.118:8899/udp/239.253.43.46:5146
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字频道",CHC动作电影
 http://110.72.63.48:8181/tsfile/live/1096_1.m3u8
 http://115.60.241.249:2000/rtp/225.1.4.208:1261
