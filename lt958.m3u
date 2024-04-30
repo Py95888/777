@@ -11,7 +11,8 @@ http://pwd.unnas.top:4000/rtp/239.253.92.190:6065
 http://61.51.141.145:8888/rtp/239.3.1.172:8001
 http://111.196.131.234:8012/rtp/239.3.1.172:8001
 http://pwd.unnas.top:4000/rtp/239.253.92.191:6057
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-http://61.51.141.145:8888/rtp/239.3.1.105:8092
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 国际
+http://61.51.141.145:8888/rtp/239.3.1.105:8092
 http://111.196.131.234:8012/rtp/239.3.1.105:8092
 http://pwd.unnas.top:4000/rtp/239.253.92.251:6141
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
