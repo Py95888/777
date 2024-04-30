@@ -182,6 +182,21 @@ http://116.23.138.133:4000/udp/239.77.1.131:5146
 http://116.23.138.133:4000/udp/239.253.43.46:5146
 http://113.119.192.118:8899/udp/239.77.1.131:5146
 http://113.119.192.118:8899/udp/239.253.43.46:5146
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="数字频道",凤凰中文
+http://113.64.145.93:8081/hls/37/index.m3u8
+http://112.19.171.156:9999/udp/239.93.0.162:2192
+http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="数字频道",凤凰资讯
+http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+http://113.64.145.93:8081/hls/36/index.m3u8
+http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+http://112.19.171.156:9999/udp/239.93.0.118:2191
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="数字频道",凤凰香港
+http://113.64.145.93:8081/hls/38/index.m3u8
+http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+http://113.64.145.91:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字频道",CHC动作电影
 http://110.72.63.48:8181/tsfile/live/1096_1.m3u8
 http://115.60.241.249:2000/rtp/225.1.4.208:1261
@@ -194,26 +209,6 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m
 http://110.72.63.48:8181/tsfile/live/1095_1.m3u8
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="数字频道",凤凰中文
-http://110.72.63.48:8181/tsfile/live/0108_1.m3u8
-http://122.246.188.175:9999/rtp/233.50.200.191:5140
-http://113.64.145.93:8081/hls/37/index.m3u8
-http://112.19.171.156:9999/udp/239.93.0.162:2192
-http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="数字频道",凤凰资讯
-http://110.72.63.48:8181/tsfile/live/1064_1.m3u8
-http://122.246.188.175:9999/rtp/233.50.200.192:5140
-http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-http://113.64.145.93:8081/hls/36/index.m3u8
-http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-http://112.19.171.156:9999/udp/239.93.0.118:2191
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="数字频道",凤凰香港
-http://110.72.63.48:8181/tsfile/live/1065_1.m3u8
-http://113.64.145.93:8081/hls/38/index.m3u8
-http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-http://113.64.145.91:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="港台频道测试",Tvbs
 http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
 #EXTINF:-1 tvg-id="J2台" tvg-name="J2台" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="港台频道测试",TVB J2台
