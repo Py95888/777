@@ -227,6 +227,12 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m
 http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
 #EXTINF:-1 tvg-id="J2台" tvg-name="J2台" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="港台频道测试",TVB J2台
 http://nz189l149.bb27109.ctm.net:8892/bysid/82
+#EXTINF:-1 tvg-id=",EBC东森亚洲" tvg-name="EBC东森亚洲" tvg-logo="https://live.fanmingming.com/tv/EbcAsiaWeishi.png.png" group-title="港台频道测试",EBC东森亚洲
+https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+#EXTINF:-1 tvg-id=",耀才财经" tvg-name="耀才财经" tvg-logo="https://live.fanmingming.com/tv/耀才财经.png" group-title="港台频道测试",耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-id=",天映频道" tvg-name="天映频道" tvg-logo="https://live.fanmingming.com/tv/天映频道.png" group-title="港台频道测试",天映频道
+http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:-1 tvg-id="好莱坞电影台" tvg-name="好莱坞电影台" tvg-logo="https://live.fanmingming.com/tv/HMC.png" group-title="港台频道测试",好莱坞电影台
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8
 http://www.51romzj.love:35455/huya/21059587
