@@ -212,8 +212,6 @@ http://nz189l149.bb27109.ctm.net:8892/bysid/82
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 #EXTINF:-1 tvg-id=",耀才财经" tvg-name="耀才财经" tvg-logo="https://live.fanmingming.com/tv/耀才财经.png" group-title="港台频道测试",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 tvg-id=",天映频道" tvg-name="天映频道" tvg-logo="https://live.fanmingming.com/tv/天映频道.png" group-title="港台频道测试",天映频道
-http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港台频道测试",TVB无线新闻台
 http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
 http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
