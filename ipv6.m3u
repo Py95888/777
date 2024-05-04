@@ -296,11 +296,9 @@ http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
 http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 #EXTINF:-1 tvg-id=",台视新闻台" tvg-name="台视新闻台" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="港台频道测试",台视新闻台
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 tvg-id=",三立新闻台" tvg-name="三立新闻台" tvg-logo="https://live.fanmingming.com/tv/SETNews.png" group-title="港台频道测试",三立新闻台
-http://66.165.240.154:8080/live/slxw01/hls.m3u8
-http://154.yfvodcdn.com:8080/live/slxw01/hls.m3u8
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 #EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://live.fanmingming.com/tv/民视台湾台.png" group-title="港台频道测试",民视台湾台
 http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
 #EXTINF:-1 tvg-id=",民视新闻台" tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="港台频道测试",民视新闻台
