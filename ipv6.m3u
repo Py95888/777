@@ -292,8 +292,7 @@ http://171.223.215.229:4000/udp/239.93.1.10:2193
 #EXTINF:-1 tvg-id="TVB星河台" tvg-name="TVB星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港台频道测试",TVB星河台
 http://171.108.239.76:8181/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="港台频道测试",中天新闻
-http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
-http://66.165.240.154:8080/live/ztylt01/hls.m3u8
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
 #EXTINF:-1 tvg-id=",台视新闻台" tvg-name="台视新闻台" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="港台频道测试",台视新闻台
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
