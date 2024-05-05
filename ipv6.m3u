@@ -272,23 +272,21 @@ http://113.64.145.229:8081/hls/135/index.m3u8
 #EXTINF:-1 tvg-id=",东森亚洲" tvg-name="东森亚洲" tvg-logo="https://live.fanmingming.com/tv/EbcAsiaWeishi.png" group-title="港台频道测试",东森卫视
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/EBCSuper.png" group-title="港台频道测试",东森超视
-http://171.108.239.90:8181/tsfile/live/1023_1.m3u8
 http://171.108.239.76:8181/tsfile/live/1023_1.m3u8
 #EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="https://live.fanmingming.com/tv/EBCWesternMovies.png" group-title="港台频道测试",东森洋片
-http://171.108.239.90:8181/tsfile/live/1016_1.m3u8
-http://171.108.239.76:8181/tsfile/live/1023_1.m3u8
+http://171.108.239.76:8181/tsfile/live/1016_1.m3u8
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/EBCWesternMovies.png" group-title="港台频道测试",东森电影
-http://171.108.239.90:8181/tsfile/live/1010_1.m3u8
-http://171.108.239.76:8181/tsfile/live/1023_1.m3u8
+http://171.108.239.76:8181/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-id="龙祥电影" tvg-name="龙祥电影" tvg-logo="https://live.fanmingming.com/tv/LSTIME.png" group-title="港台频道测试",龙祥电影
-http://171.108.239.90:8181/tsfile/live/1011_1.m3u8
-http://171.108.239.76:8181/tsfile/live/1023_1.m3u8
+http://171.108.239.76:8181/tsfile/live/1011_1.m3u8
 #EXTINF:-1 tvg-id=",耀才财经" tvg-name="耀才财经" tvg-logo="https://live.fanmingming.com/tv/耀才财经.png" group-title="港台频道测试",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港台频道测试",TVB无线新闻台
-http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
-http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
-http://live.cooltv.top/tv/tvb.php?id=0&hq
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港台频道测试",无线新闻台
+http://nz189l149.bb27109.ctm.net:8892/bysid/83
+#EXTINF:-1 tvg-id="无线财经台" tvg-name="无线财经台" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="港台频道测试",无线财经台
+http://nz189l149.bb27109.ctm.net:8892/bysid/85
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="港台频道测试",明珠台
+http://nz189l149.bb27109.ctm.net:8892/bysid/2
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="港台频道测试",星空卫视
 http://171.223.215.229:4000/udp/239.93.1.10:2193
 #EXTINF:-1 tvg-id="TVB星河台" tvg-name="TVB星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港台频道测试",TVB星河台
