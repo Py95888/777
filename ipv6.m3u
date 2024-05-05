@@ -292,7 +292,7 @@ http://nz189l149.bb27109.ctm.net:8892/bysid/83
 http://nz189l149.bb27109.ctm.net:8892/bysid/85
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="香港频道",明珠台
 http://nz189l149.bb27109.ctm.net:8892/bysid/2
-#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="香港频道",星空卫视
+#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://i.imgur.com/Y282owj.png" group-title="香港频道",天映频道
 http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="香港频道",星空卫视
 http://171.223.215.229:4000/udp/239.93.0.156:2193
