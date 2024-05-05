@@ -296,17 +296,3 @@ http://210.210.155.37/dr9445/h/h14/index.m3u8
 http://171.223.215.229:4000/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-id="TVB星河台" tvg-name="TVB星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="香港频道",TVB星河台
 http://171.108.239.76:8181/tsfile/live/1012_1.m3u8
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Medium (720p)
-http://live.mycamtv.com/medium.m3u8
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV MILF (720p)
-http://live.mycamtv.com/milf.m3u8
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Teen (720p)
-http://live.mycamtv.com/teen.m3u8
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Young (720p)
-http://live.mycamtv.com/young.m3u8
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/6aOmZs4.png",O-la-la! (576p)
-http://31.148.48.15/O-la-la/index.m3u8
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/B3DMUM9.png",Playboy TV Latin America (1080p)
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/avtSqUu.png",Visit-X TV (720p)
-https://stream.visit-x.tv/vxtv/live/playlist.m3u8
