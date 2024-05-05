@@ -279,15 +279,16 @@ http://nz189l149.bb27109.ctm.net:8892/bysid/83
 http://nz189l149.bb27109.ctm.net:8892/bysid/85
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="港台频道测试",明珠台
 http://nz189l149.bb27109.ctm.net:8892/bysid/2
+#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="港台频道测试",星空卫视
+http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="港台频道测试",星空卫视
-http://171.223.215.229:4000/udp/239.93.1.10:2193
+http://171.223.215.229:4000/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-id="TVB星河台" tvg-name="TVB星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港台频道测试",TVB星河台
 http://171.108.239.76:8181/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="港台频道测试",中天新闻
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
 #EXTINF:-1 tvg-id=",台视新闻台" tvg-name="台视新闻台" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="港台频道测试",台视新闻台
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 tvg-id=",三立新闻台" tvg-name="三立新闻台" tvg-logo="https://live.fanmingming.com/tv/SETNews.png" group-title="港台频道测试",三立新闻台
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 #EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://live.fanmingming.com/tv/民视台湾台.png" group-title="港台频道测试",民视台湾台
