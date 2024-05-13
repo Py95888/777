@@ -36,13 +36,11 @@ http://113.75.180.211:2086/udp/239.77.0.165:5146
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://113.75.180.211:2086/udp/239.77.1.121:5146
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
-http://lu1.cc/itv/php/cctv4k.php
 http://113.75.180.211:2086/udp/239.77.0.194:5146
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道",CCTV-8K 超高清
 https://tv.cry33.com/ys4k.php?id=8k
 #EXTINF:-1 tvg-id="央视台球" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视频道",央视台球
-http://222.241.144.177:8888/udp/239.76.254.58:9000
-http://gzly.hkychina.com:6001/udp/239.252.219.80:5140
+http://27.184.19.234:4022/rtp/239.254.201.171:7176
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://113.75.180.211:2086/udp/239.77.1.148:5146
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
@@ -78,7 +76,7 @@ http://113.75.180.211:2086/udp/239.77.1.33:5146
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视频道",海南卫视
 http://222.241.144.177:8888/udp/239.76.246.203:1234
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://113.75.180.211:2086/udp/239.77.0.128:5146
+http://113.75.180.211:2086/udp/239.77.1.93:5146
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视频道",山西卫视
 http://tvbox.netsite.cc/proxy/825435414/825435414.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视频道",东南卫视
