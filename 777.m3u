@@ -89,8 +89,8 @@ http://125.92.111.31:4022/udp/239.77.0.123:5146
 http://125.92.111.31:4022/udp/239.77.0.93:5146
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视频道",云南卫视
 http://125.92.111.31:4022/udp/239.253.43.100:5146
-#EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/EBCSuper.png" group-title="湾湾频道",东森超视
-http://171.108.239.77:8181/tsfile/live/1023_1.m3u8
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="湾湾频道",中视新闻
+http://ytb.csscc.cc:2086/live.m3u8?c=2
 #EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="https://live.fanmingming.com/tv/EBCWesternMovies.png" group-title="湾湾频道",东森洋片
 http://171.108.239.77:8181/tsfile/live/1016_1.m3u8
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/EBCWesternMovies.png" group-title="湾湾频道",东森电影
@@ -99,6 +99,7 @@ http://171.108.239.73:8181/tsfile/live/1010_1.m3u8
 http://171.108.239.77:8181/tsfile/live/1011_1.m3u8
 #EXTINF:-1 tvg-id=",东森新闻" tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/EBCNews.png" group-title="湾湾频道",东森新闻
 http://ytb.csscc.cc:2086/live.m3u8?c=6
+http://154.204.178.8:345/132.php?id=ebc-news
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://i.imgur.com/Q1Mrvjj.png" group-title="湾湾频道",寰宇新闻
 http://ytb.csscc.cc:2086/live.m3u8?c=4
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="湾湾频道",中天新闻
@@ -117,17 +118,20 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 http://william8073.eu.org:9000/live.m3u8?c=2
 #EXTINF:-1 tvg-id="J2台" tvg-name="J2台" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="香港频道",TVB J2台
 http://mtw.so/5Vma8v
-http://nz189l149.bb27109.ctm.net:8892/bysid/82
+http://ncdsrti.7766.org:7550/hls/chunklistxqsltvbj5.m3u8
+http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVBS亚洲.png" group-title="香港频道",翡翠台
-http://wanjiatv.net/Smartv.php?id=jade_twn
+http://60.30.198.43:5080/香蕉哥/tvb翡翠/hls.m3u8
+http://60.30.198.43:5080/香蕉哥/tvb翡翠2/hls.m3u8
 #EXTINF:-1 tvg-id=",耀才财经" tvg-name="耀才财经" tvg-logo="https://live.fanmingming.com/tv/耀才财经.png" group-title="香港频道",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",无线新闻台
-http://mtw.so/5G16eP
+http://137.175.30.127:9080/hls/inews.m3u8
+http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png.png" group-title="香港频道",明珠台
-http://59.33.5.235:8896/bysid/2
+http://113.83.152.28:1935/bysid/2.m3u8
 #EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://i.imgur.com/Y282owj.png" group-title="香港频道",天映频道
-http://210.210.155.37/dr9445/h/h14/index.m3u8
+http://zuozhus.site/live/Smartv.php?id=Celestial
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="香港频道",星空卫视
 http://171.223.215.229:4000/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-id="TVB星河台" tvg-name="TVB星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="香港频道",TVB星河台
