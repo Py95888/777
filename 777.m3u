@@ -91,6 +91,9 @@ http://125.92.111.31:4022/udp/239.77.0.123:5146
 http://125.92.111.31:4022/udp/239.77.0.93:5146
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视频道",云南卫视
 http://125.92.111.31:4022/udp/239.253.43.100:5146
+#EXTINF:-1 tvg-id="tvbs新闻" tvg-name="tvbs新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="湾湾频道",tvbs新闻
+http://ytb.csscc.cc:2086/live.m3u8?c=11
+http://william8073.eu.org:9000/live.m3u8?c=2
 #EXTINF:-1 tvg-id=",东森新闻" tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/EBCNews.png" group-title="湾湾频道",东森新闻
 http://ytb.csscc.cc:2086/live.m3u8?c=6
 http://154.204.178.8:345/132.php?id=ebc-news
@@ -106,11 +109,6 @@ http://ytb.csscc.cc:2086/live.m3u8?c=8
 http://william8073.eu.org:9000/live.m3u8?c=11
 #EXTINF:-1 tvg-id=",三立新闻" tvg-name="三立新闻" tvg-logo="https://live.fanmingming.com/tv/SETNews.png" group-title="湾湾频道",三立新闻
 http://ytb.csscc.cc:2086/live.m3u8?c=3
-#EXTINF:-1 tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="香港频道",Tvbs
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 tvg-id="tvbs新闻" tvg-name="tvbs新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="香港频道",tvbs新闻
-http://ytb.csscc.cc:2086/live.m3u8?c=11
-http://william8073.eu.org:9000/live.m3u8?c=2
 #EXTINF:-1 tvg-id="J2台" tvg-name="J2台" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="香港频道",TVB J2台
 http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 http://mtw.so/5Vma8v
