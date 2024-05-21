@@ -126,14 +126,13 @@ http://113.64.145.132:8081/hls/36/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="ipv6数字",凤凰香港
 http://113.64.145.229:8081/hls/38/index.m3u8
 http://113.64.145.132:8081/hls/38/index.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVBS亚洲.png" group-title="港澳频道",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="港澳频道",翡翠台
 http://60.30.198.43:5080/香蕉哥/tvb翡翠/hls.m3u8
 http://60.30.198.43:5080/香蕉哥/tvb翡翠2/hls.m3u8
 #EXTINF:-1 tvg-id=",耀才财经" tvg-name="耀才财经" tvg-logo="https://live.fanmingming.com/tv/耀才财经.png" group-title="港澳频道",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳频道",无线新闻台
-http://137.175.30.127:9080/hls/inews.m3u8
-http://live.cooltv.top/tv/tvb.php?id=2
+http://123.202.245.120:8008/bysid/83.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png.png" group-title="港澳频道",明珠台
 http://113.83.152.28:1935/bysid/2.m3u8
 #EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://i.imgur.com/Y282owj.png" group-title="港澳频道",天映频道
