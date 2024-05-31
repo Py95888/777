@@ -38,23 +38,24 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN新闻
-http://frp-fly.top:27209/proxy/1464174866/1464174866.m3u8
+http://ddns.372101.best:9981/stream/channelid/663550322?profile=pass
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png"group-title="央视",CGTN纪录
-http://frp-fly.top:27209/proxy/97135501/97135501.m3u8
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/cctv17.png" group-title="央视",兵器科技
-http://[2409：8087：4c0a：22：1::11]:6410/170000001115/UmaiCHAN638077907bdcd/1.m3u8?m3u8_level=2
+http://ddns.372101.best:9981/stream/channelid/2061378033?profile=pass
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/cctv17.png" group-title="央视",第一剧场
-http://[2409：8087：4c0a：22：1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2
+http://ddns.372101.best:9981/stream/channelid/1162863800?profile=pass
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/cctv17.png" group-title="央视",风云足球
-http://[2409：8087：4c0a：22：1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
+http://ddns.372101.best:9981/stream/channelid/1079578825?profile=pass
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/cctv17.png" group-title="央视",世界地理
-http://[2409：8087：4c0a：22：1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/1.m3u8?m3u8_level=2
+http://ddns.372101.best:9981/stream/channelid/1049998996?profile=pass
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/cctv17.png" group-title="央视",央视台球
-http://[2409：8087：4c0a：22：1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
+http://udmark.cn:8081/udp/239.21.0.71:3624
+http://27.184.19.234:4022/rtp/239.254.201.171:7176
 #EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.xyz/logo/cctv17.png" group-title="央视",央视高网
 http://[2409：8087：4c0a：22：1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/CCTVwenhuajingpin.png" group-title="央视",文化精品
-http://mail.petzhu.top:7000/rtp/239.254.201.229:7260
+http://39.145.2.203/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
 #EXTINF:-1 tvg-id="111" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="卫视",凤凰中文
 http://113.64.145.195:8081/hls/37/index.m3u8
 #EXTINF:-1 tvg-id="112" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="卫视",凤凰资讯
