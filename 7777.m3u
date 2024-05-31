@@ -134,8 +134,7 @@ http://14.126.29.161:5000/udp/239.253.43.100:5146
 http://ytb.csscc.cc:2086/live.m3u8?c=11
 http://william8073.eu.org:9000/live.m3u8?c=2
 #EXTINF:-1 tvg-id=",东森新闻" tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/EBCNews.png" group-title="港澳频道",东森新闻
-http://ytb.csscc.cc:2086/live.m3u8?c=6
-http://154.204.178.8:345/132.php?id=ebc-news
+http://103.139.93.196:8234/Smartv.php?id=ettvnews
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://i.imgur.com/Q1Mrvjj.png" group-title="港澳频道",寰宇新闻
 http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn14
 http://ytb.csscc.cc:2086/live.m3u8?c=4
