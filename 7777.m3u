@@ -165,7 +165,7 @@ http://123.202.245.120:8008/bysid/83.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png.png" group-title="港澳频道",明珠台
 http://113.83.152.28:1935/bysid/2.m3u8
 #EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://i.imgur.com/Y282owj.png" group-title="港澳频道",天映频道
-http://zuozhus.site/live/Smartv.php?id=Celestial
+http://171.108.239.73:8181/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="港澳频道",星空卫视
 http://171.223.215.229:4000/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-id="TVB星河台" tvg-name="TVB星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳频道",TVB星河台
