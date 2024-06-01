@@ -1,5 +1,7 @@
-无所畏惧,#genre#
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-id="自娱自乐" tvg-name="自娱自乐" tvg-logo="https://live.fanmingming.com/tv/NEWTV中国功夫.png" group-title="无所畏惧",自娱自乐
+#EXTINF:-1 tvg-id="无所畏惧" tvg-name="无所畏惧" tvg-logo="https://live.fanmingming.com/tv/NEWTV中国功夫.png" group-title="无所畏惧",无所畏惧
+#EXTINF:-1 tvg-id="群友使用" tvg-name="群友使用" tvg-logo="https://live.fanmingming.com/tv/NEWTV中国功夫.png" group-title="无所畏惧",群友使用
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://183.156.77.42:4022/rtp/233.50.201.118:5140
 http://113.57.109.48:1111/tsfile/live/1000_1.m3u8
