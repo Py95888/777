@@ -126,6 +126,15 @@ http://113.57.109.48:1111/tsfile/live/1033_1.m3u8
 http://113.90.244.104:4000/udp/239.77.0.93:5146
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视频道",云南卫视
 http://113.90.244.104:4000/udp/239.253.43.100:5146
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳频道",凤凰中文
+http://113.64.145.34:8081/hls/37/index.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳频道",凤凰资讯
+http://113.64.145.34:8081/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳频道",凤凰香港
+http://113.64.145.34:8081/hls/38/index.m3u8
+#EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="港澳频道",TVBPlus
+http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
+http://zsntlqj.xicp.net:8896/bysid/82.m3u8
 #EXTINF:-1 tvg-id="tvbs新闻" tvg-name="tvbs新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港澳频道",tvbs新闻
 http://194.87.101.118/live.m3u8?c=5
 #EXTINF:-1 tvg-id=",东森新闻" tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/EBCNews.png" group-title="港澳频道",东森新闻
@@ -149,9 +158,6 @@ http://194.87.101.118/live.m3u8?c=12
 http://194.87.101.118/live.m3u8?c=13
 #EXTINF:-1 tvg-id=",东森财经新闻" tvg-name="东森财经新闻" tvg-logo="https://live.fanmingming.com/tv/EBCFinancialNews.png" group-title="港澳频道",东森财经新闻
 http://194.87.101.118/live.m3u8?c=14
-#EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="港澳频道",TVBPlus
-http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
-http://zsntlqj.xicp.net:8896/bysid/82.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="港澳频道",翡翠台
 http://m.glx008.com:8000/bysid/1.m3u8
 #EXTINF:-1 tvg-id=",耀才财经" tvg-name="耀才财经" tvg-logo="https://live.fanmingming.com/tv/耀才财经.png" group-title="港澳频道",耀才财经
@@ -166,12 +172,6 @@ http://171.108.239.73:8181/tsfile/live/1009_1.m3u8
 http://171.108.239.74:8181/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-id="TVB星河台" tvg-name="TVB星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳频道",TVB星河台
 http://171.108.239.77:8181/tsfile/live/1005_1.m3u8
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="数字电视",凤凰中文
-http://113.64.145.34:8081/hls/37/index.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="数字电视",凤凰资讯
-http://113.64.145.34:8081/hls/36/index.m3u8
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="数字电视",凤凰香港
-http://113.64.145.34:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="数字电视",第一财经
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-id="CHC1" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="数字电视",CHC影迷电影
