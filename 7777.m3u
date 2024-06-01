@@ -45,6 +45,7 @@ http://113.90.244.104:4000/udp/239.77.0.188:5146
 http://113.57.109.48:1111/tsfile/live/1013_1.m3u8
 http://113.90.244.104:4000/udp/239.77.1.161:5146
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
+http://59.44.102.18:8888/newlive/live/hls/17/live.m3u8
 http://113.90.244.104:4000/udp/239.77.1.239:5146
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
 http://113.57.109.48:1111/tsfile/live/1014_1.m3u8
@@ -89,8 +90,7 @@ http://113.90.244.104:4000/udp/239.77.1.92:5146
 http://113.57.109.48:1111/tsfile/live/1029_1.m3u8
 http://113.90.244.104:4000/udp/239.77.0.94:5146
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视频道",广西卫视
-http://220.161.66.146:9999/rtp/239.61.2.48:8282
-http://117.10.59.110:8888/newlive/live/hls/23/live.m3u8
+http://118.122.2.29:9999/hls/37/index.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://113.57.109.48:1111/tsfile/live/1023_1.m3u8
 http://113.90.244.104:4000/udp/239.77.1.18:5146
@@ -111,7 +111,7 @@ http://113.57.109.48:1111/tsfile/live/1037_1.m3u8
 http://113.57.109.48:1111/tsfile/live/1017_1.m3u8
 http://113.90.244.104:4000/udp/239.77.1.93:5146
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视频道",山西卫视
-http://tvbox.netsite.cc/proxy/825435414/825435414.m3u8
+http://118.122.2.29:9999/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视频道",东南卫视
 http://113.57.109.48:1111/tsfile/live/1034_1.m3u8
 http://113.90.244.104:4000/udp/239.77.1.104:5146
