@@ -158,7 +158,7 @@ http://m.glx008.com:8000/bysid/1.m3u8
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳频道",无线新闻台
 http://zsntlqj.xicp.net:8896/bysid/83.m3u8
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png.png" group-title="港澳频道",明珠台
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="港澳频道",明珠台
 http://123.202.245.120:8008/bysid/2.m3u8
 #EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://i.imgur.com/Y282owj.png" group-title="港澳频道",天映频道
 http://171.108.239.73:8181/tsfile/live/1009_1.m3u8
