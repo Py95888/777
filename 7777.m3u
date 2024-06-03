@@ -244,7 +244,7 @@ http://194.87.101.118/live.m3u8?c=11
 #EXTINF:-1 tvg-id=",台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="港澳频道",台视新闻
 http://194.87.101.118/live.m3u8?c=4
 #EXTINF:-1 tvg-id=",三立新闻" tvg-name="三立新闻" tvg-logo="https://live.fanmingming.com/tv/SETNews.png" group-title="港澳频道",三立新闻
-http://194.87.101.118/live.m3u8?c=12
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 #EXTINF:-1 tvg-id=",华视新闻" tvg-name="华视新闻" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="港澳频道",华视新闻
 http://194.87.101.118/live.m3u8?c=13
 #EXTINF:-1 tvg-id=",东森财经新闻" tvg-name="东森财经新闻" tvg-logo="https://live.fanmingming.com/tv/EBCFinancialNews.png" group-title="港澳频道",东森财经新闻
