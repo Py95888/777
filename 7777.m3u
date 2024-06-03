@@ -229,7 +229,7 @@ http://zsntlqj.xicp.net:8896/bysid/82.m3u8
 #EXTINF:-1 tvg-id="tvbs新闻" tvg-name="tvbs新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港澳频道",tvbs新闻
 http://194.87.101.118/live.m3u8?c=5
 #EXTINF:-1 tvg-id=",东森新闻" tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/EBCNews.png" group-title="港澳频道",东森新闻
-http://103.139.93.196:8234/Smartv.php?id=ettvnews
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="港澳频道",寰宇新闻
 http://william8073.eu.org:9000/live.m3u8?c=10
 http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn14
