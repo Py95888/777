@@ -250,7 +250,7 @@ http://194.87.101.118/live.m3u8?c=13
 #EXTINF:-1 tvg-id=",东森财经新闻" tvg-name="东森财经新闻" tvg-logo="https://live.fanmingming.com/tv/EBCFinancialNews.png" group-title="港澳频道",东森财经新闻
 http://194.87.101.118/live.m3u8?c=14
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="港澳频道",翡翠台
-http://m.glx008.com:8000/bysid/1.m3u8
+http://113.83.152.64:1936/bysid/1.m3u8
 #EXTINF:-1 tvg-id=",耀才财经" tvg-name="耀才财经" tvg-logo="https://live.fanmingming.com/tv/耀才财经.png" group-title="港澳频道",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳频道",无线新闻台
