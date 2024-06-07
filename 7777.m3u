@@ -223,10 +223,8 @@ http://php.jdshipin.com:8880/smt.php?id=inews_twn
 http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 #EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://i.imgur.com/Y282owj.png" group-title="港澳频道",天映频道
 http://171.108.239.73:8181/tsfile/live/1009_1.m3u8
-#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="港澳频道",星空卫视
-http://171.108.239.74:8181/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-id="TVB星河台" tvg-name="TVB星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳频道",TVB星河台
-http://php.jdshipin.com:8880/smt.php?id=Xinhe
+http://198.204.244.250:8080/live/139/hls.m3u8
 #EXTINF:-1 tvg-id="CHC1" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="数字电视",CHC影迷电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
