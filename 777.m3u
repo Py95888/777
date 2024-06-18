@@ -253,10 +253,16 @@ https://histar.zapi.us.kg/?id=ftv-news
 #EXTINF:-1 tvg-id=",台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="港澳频道",台视新闻
 https://histar.zapi.us.kg/?id=ttv-news
 #EXTINF:-1 tvg-id=",三立新闻" tvg-name="三立新闻" tvg-logo="https://live.fanmingming.com/tv/SETNews.png" group-title="港澳频道",三立新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 https://histar.zapi.us.kg/?id=settv-news
+#EXTINF:-1 tvg-id=",三立台湾" tvg-name="三立台湾" tvg-logo="https://live.fanmingming.com/tv/SETTaiwan.png" group-title="港澳频道",三立台湾
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8
 #EXTINF:-1 tvg-id=",华视新闻" tvg-name="华视新闻" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="港澳频道",华视新闻
 https://histar.zapi.us.kg/?id=cts-news
-#EXTINF:-1 tvg-id=",东森财经新闻" tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/EBCNews.png" group-title="港澳频道",东森新闻
+#EXTINF:-1 tvg-id=",东森综合" tvg-name="东森综合" tvg-logo="https://live.fanmingming.com/tv/EBCVariety.png" group-title="港澳频道",东森综合
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8
+#EXTINF:-1 tvg-id=",东森新闻" tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/EBCNews.png" group-title="港澳频道",东森新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
 https://histar.zapi.us.kg/?id=ebc-news
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="港澳频道",翡翠台
 https://histar.zapi.us.kg/?id=golden-jade
@@ -270,6 +276,10 @@ http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 https://histar.zapi.us.kg/?id=celestial
 #EXTINF:-1 tvg-id="TVB星河台" tvg-name="TVB星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳频道",TVB星河台
 https://histar.zapi.us.kg/?id=tvb-xinghe
+#EXTINF:-1 tvg-id="好莱坞电影" tvg-name="好莱坞电影" tvg-logo="https://live.fanmingming.com/tv/TVB星河1.png" group-title="港澳频道",好莱坞电影
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8
+#EXTINF:-1 tvg-id="goodtv" tvg-name="goodtv" tvg-logo="https://live.fanmingming.com/tv/TVB星河1.png" group-title="港澳频道"goodtv
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8508/.m3u8
 #EXTINF:-1 tvg-id="CHC1" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="数字电视",CHC影迷电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
@@ -379,7 +389,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000047/index.m3u8?
 #EXTINF:-1 tvg-id="爱动漫" tvg-name="iHOT爱动漫" tvg-logo="https://live.fanmingming.com/tv/IHOT爱动漫.png" group-title="IHOT",iHOT爱动漫
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 
-#EXTINF:-1 tvg-id="newtv爱情喜剧" tvg-name="newtv爱情喜剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV爱情喜剧.png" group-title="NewTV系列",NewTV爱情喜剧
+#EXTINF:-1 tvg-id="newtv爱情喜剧" tvg-name="newtv爱情喜剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV金牌综艺.png" group-title="NewTV系列",NewTV爱情喜剧
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-id="newtv超级综艺" tvg-name="newtv超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV系列",NewTV超级综艺
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
