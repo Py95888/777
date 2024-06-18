@@ -236,6 +236,10 @@ http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de
 http://zsntlqj.xicp.net:8896/bysid/82.m3u8
 http://138.113.24.59/libof.kesx.top/live/5658kwkojtz.m3u8
 http://ncdsrti.7766.org:7550/hls/chunklistxufkwjw.m3u8
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港澳频道",RTHK31
+https://histar.zapi.us.kg/?id=rthk31
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳频道",RTHK32
+https://histar.zapi.us.kg/?id=rthk32
 #EXTINF:-1 tvg-id="tvbs新闻" tvg-name="tvbs新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港澳频道",tvbs新闻
 https://histar.zapi.us.kg/?id=tvbs-news
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="港澳频道",寰宇新闻
