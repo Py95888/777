@@ -486,6 +486,7 @@ https://judy.mytvsuper.us.kg/stream/tvb/mytvsuper18/master.m3u8?u=btjson&p=213f2
 https://judy.mytvsuper.us.kg/stream/tvb/thrill/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="NHK-World-Japan" tvg-name="NHK World-Japan" tvg-logo="https://assets.livednow.com/logo/NHK-HK.png" group-title="香港频道", NHK World-Japan
 https://judy.mytvsuper.us.kg/stream/tvb/nhkworldjapan/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
 #EXTINF:-1 tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="台湾频道",tvbs
 https://www.youtube.com/watch?v=o_-hSMgpAzs
 #EXTINF:-1 tvg-id="tvbs新闻" tvg-name="tvbs新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="台湾频道",tvbs新闻
