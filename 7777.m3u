@@ -446,13 +446,13 @@ p3p://fccsen.dyndns.tv:29706/5c4a5ad2000ba3f2fbdd8ccf71297ceb
 #EXTINF:-1,tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://epg.v1.mk/logo/Now爆谷台.png" group-title="香港频道",Now 爆谷台
 https://sxj.livednow.us.kg/ziyong?id=baogu-movies
 #EXTINF:-1,tvg-id="NOW星影台" tvg-name="NOW星影台" tvg-logo="https://epg.v1.mk/logo/NOW星影台.png" group-title="香港频道",Now 星影台
-https://sxj.livednow.us.kg/ziyong?id=now-baogu-superstars
+http://cdn12.1678520.xyz/live/live1.1.php?id=xyt
 https://mytvb.livednow.us.kg/stream/tvb/nowsuperstars/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="香港频道",TVBPlus
 http://zsntlqj.xicp.net:8896/bysid/82.m3u8
 https://test.zapi.us.kg/?id=j2
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="香港频道",TVB翡翠台
-http://zsntlqj.xicp.net:8895/bysid/1.m3u8
+http://cdn.1678520.xyz/tvb/tvbts1.1.php?id=fct
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="香港频道", 翡翠台 4K
 https://judy.mytvsuper.us.kg/stream/tvb/feicui4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="香港频道",TVB明珠台
@@ -467,6 +467,10 @@ https://judy.mytvsuper.us.kg/stream/tvb/wirelessnewschannel/master.m3u8?u=btjson
 https://judy.mytvsuper.us.kg/stream/tvb/ctve/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://assets.livednow.com/logo/亞洲新聞台.png" group-title="香港频道", 亞洲新聞台
 https://judy.mytvsuper.us.kg/stream/tvb/ccna/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="hoy" tvg-name="hoy" tvg-logo="https://gitee.com/py777/py/raw/master/hoy.png" group-title="香港频道", hoy77
+http://cdn3.1678520.xyz/live/live1.1.php?id=hoy
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://live.fanmingming.com/tv/viutv.png" group-title="香港频道",ViuTVsix
+http://cdn12.1678520.xyz/live/?id=viu
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="香港频道",RTHK31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="香港频道",RTHK32
