@@ -449,12 +449,10 @@ https://sxj.livednow.us.kg/ziyong?id=baogu-movies
 https://sxj.livednow.us.kg/ziyong?id=now-baogu-superstars
 https://mytvb.livednow.us.kg/stream/tvb/nowsuperstars/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="香港频道",TVBPlus
-https://judy.mytvsuper.us.kg/stream/tvb/tvbplus/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-http://www.mytvsuper.us.kg/live.php?id=tvbplus
-https://test.zapi.us.kg/?id=tvb-plus
+http://zsntlqj.xicp.net:8896/bysid/82.m3u8
 https://test.zapi.us.kg/?id=j2
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="香港频道",TVB翡翠台
-https://judy.mytvsuper.us.kg/stream/tvb/feicui/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+http://zsntlqj.xicp.net:8895/bysid/1.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="香港频道", 翡翠台 4K
 https://judy.mytvsuper.us.kg/stream/tvb/feicui4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="香港频道",TVB明珠台
@@ -463,6 +461,7 @@ https://judy.mytvsuper.us.kg/stream/tvb/pearl/master.m3u8?u=btjson&p=213f2541f15
 https://sxj.livednow.us.kg/ziyong?id=tvb-xinghe
 https://stream1.freetv.fun/be4bdf439f81370d75a42d2b6dee742d3cc7d535a80095d1b4321ef585fc8e2c.m3u8
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",TVB无线新闻台
+http://zsntlqj.xicp.net:8896/bysid/83.m3u8
 https://judy.mytvsuper.us.kg/stream/tvb/wirelessnewschannel/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="https://gitee.com/py777/py/raw/master/TvbEN.png" group-title="香港频道",TVB娱乐新闻台
 https://judy.mytvsuper.us.kg/stream/tvb/ctve/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
