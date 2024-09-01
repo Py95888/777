@@ -446,6 +446,7 @@ https://mytvb.livednow.us.kg/stream/tvb/nowsuperstars/master.m3u8?u=btjson&p=213
 #EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="香港频道",TVBPlus
 http://zsntlqj.xicp.net:8896/bysid/82.m3u8
 https://test.zapi.us.kg/?id=j2
+http://tvbox6.icu/tv/tvbplus.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="香港频道",TVB翡翠台
 http://cdn.1678520.xyz/tvb/tvbts1.1.php?id=fct
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="香港频道", 翡翠台 4K
