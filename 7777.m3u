@@ -81,7 +81,7 @@ http://116.226.14.61:4022/udp/239.45.3.211:5140
 http://116.226.14.61:4022/udp/239.45.1.46:5140
 #EXTINF:-1,tvg-id="HKS" tvg-name="HKS" tvg-logo="https://i.imgur.com/UhwlxwL.png" group-title="卫视IPV4",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1,tvg-id="亚洲卫视" tvg-name="亚洲卫视" tvg-logo="https://live.fanmingming.com/tv/亚洲卫视.png" group-title="卫视IPV4",亚洲卫视
+#EXTINF:-1,tvg-id="亚洲卫视" tvg-name="亚洲卫视" tvg-logo="https://gitee.com/py777/py/raw/master/ATV_logo_2008.png" group-title="卫视IPV4",亚洲卫视
 http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视IPV4",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
