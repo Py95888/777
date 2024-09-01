@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml"
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视IPV4",CHC家庭影院
-http://27.19.120.173:3520/rtp/239.69.1.243:11100
+http://home.yulei.online:9999/rtp/226.0.2.240:9820
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视IPV4",CHC影迷电影
 http://27.19.120.173:3520/rtp/239.69.1.241:11088
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视IPV4",CHC动作电影
@@ -92,9 +92,9 @@ http://www.adg.my.zhoujie218.top:8888/udp/239.252.219.66:5140
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视IPV4",CGTN俄语
 http://www.adg.my.zhoujie218.top:8888/udp/239.252.219.67:5140
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视IPV4",凤凰资讯
-http://171.217.81.230:8088/udp/239.93.1.4:2191
+http://www.91dos.cn:4022/rtp/239.61.2.183:9086
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视IPV4",凤凰中文
-http://171.217.81.230:8088/udp/239.93.0.162:2192
+http://www.91dos.cn:4022/rtp/239.61.2.184:9092
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视IPV4",凤凰香港
 http://180.142.220.251:8181/tsfile/live/1084_1.m3u8
 https://judy.mytvsuper.us.kg/stream/tvb/phk/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
@@ -428,9 +428,11 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="NewTV精品萌宠" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品萌宠.png" group-title="NewTV系列",NewTV精品萌宠
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
-http://171.217.81.230:8088/udp/239.93.1.4:2191
+http://ayolee.com:5253/udp/239.93.1.4:2191
+http://www.91dos.cn:4022/rtp/239.61.2.183:9092
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港频道",凤凰中文
-http://171.217.81.230:8088/udp/239.93.0.162:2192
+http://www.91dos.cn:4022/rtp/239.61.2.184:9092
+http://ayolee.com:5253/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港频道",凤凰香港
 http://180.142.220.251:8181/tsfile/live/1084_1.m3u8
 https://judy.mytvsuper.us.kg/stream/tvb/phk/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
@@ -489,6 +491,7 @@ https://judy.mytvsuper.us.kg/stream/tvb/nhkworldjapan/master.m3u8?u=btjson&p=213
 #EXTINF:-1 tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="台湾频道",tvbs
 https://www.youtube.com/watch?v=o_-hSMgpAzs
 #EXTINF:-1 tvg-id="tvbs新闻" tvg-name="tvbs新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="台湾频道",tvbs新闻
+http://61.221.215.25:8800/hls/9/index.m3u8
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="台湾频道",寰宇新闻
 https://www.youtube.com/watch?v=6IquAgfvYmc
