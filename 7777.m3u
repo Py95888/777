@@ -9,6 +9,7 @@ http://27.19.120.173:3520/rtp/239.69.1.242:11094
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视IPV4",CCTV1
 http://116.226.14.61:4022/udp/239.45.3.145:5140
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视IPV4",CCTV2
+http://home.yulei.online:9999/rtp/226.0.2.154:9144
 http://116.226.14.61:4022/udp/239.45.1.109:5140
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视IPV4",CCTV3
 http://116.226.14.61:4022/udp/239.45.1.68:5140
