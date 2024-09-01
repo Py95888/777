@@ -81,6 +81,8 @@ http://116.226.14.61:4022/udp/239.45.3.211:5140
 http://116.226.14.61:4022/udp/239.45.1.46:5140
 #EXTINF:-1,tvg-id="HKS" tvg-name="HKS" tvg-logo="https://i.imgur.com/UhwlxwL.png" group-title="卫视IPV4",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1,tvg-id="亚洲卫视" tvg-name="亚洲卫视" tvg-logo="https://live.fanmingming.com/tv/亚洲卫视.png" group-title="卫视IPV4",亚洲卫视
+http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视IPV4",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 http://116.226.14.61:4022/udp/239.45.3.178:5140
@@ -112,6 +114,7 @@ http://116.226.14.61:4022/udp/239.45.1.121:5140
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视IPV4",山东卫视
 http://116.226.14.61:4022/udp/239.45.3.238:5140
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视IPV4",山西卫视
+http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 http://116.226.14.61:4022/udp/239.45.1.229:5140
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视IPV4",广西卫视
 http://116.226.14.61:4022/udp/239.45.0.5:5140
@@ -458,6 +461,8 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 #EXTINF:-1 tvg-id=",民视新闻" tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="台湾频道",民视新闻
 rtmp://f13h.mine.nu/sat/tv051
 https://www.youtube.com/watch?v=ylYJSBUgaMA
+#EXTINF:-1 tvg-id=",台视" tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="台湾频道",台视
+rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1 tvg-id=",台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="台湾频道",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 https://www.youtube.com/watch?v=xL0ch83RAK8
@@ -466,6 +471,8 @@ https://www.youtube.com/watch?v=oZdzzvxTfUY
 #EXTINF:-1 tvg-id=",三立戏剧" tvg-name="三立戏剧" tvg-logo="https://live.fanmingming.com/tv/setxiju.png" group-title="台湾频道",三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8
 mitv://generationnexxxt.com:19806/7a5b874b630d457bb5997a2fe4690550
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="台湾频道", 华视
+rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-id=",华视新闻" tvg-name="华视新闻" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="台湾频道",华视新闻
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
 #EXTINF:-1 tvg-id=",东森新闻" tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/EBCNews.png" group-title="台湾频道",东森新闻
