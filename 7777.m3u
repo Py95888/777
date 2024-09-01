@@ -3,33 +3,33 @@
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视IPV4",CHC家庭影院
 http://home.yulei.online:9999/rtp/226.0.2.240:9820
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视IPV4",CHC影迷电影
-http://27.19.120.173:3520/rtp/239.69.1.241:11088
+http://home.yulei.online:9999/rtp/226.0.2.93:8004
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视IPV4",CHC动作电影
 http://27.19.120.173:3520/rtp/239.69.1.242:11094
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视IPV4",CCTV1
-http://xeace.cn:8888/udp/239.93.0.184:5140
+http://home.yulei.online:9999/rtp/226.0.2.153:9136
 http://116.226.14.61:4022/udp/239.45.3.145:5140
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视IPV4",CCTV2
-http://xeace.cn:8888/udp/239.93.1.23:6000
+http://home.yulei.online:9999/rtp/226.0.2.154:9144
 http://116.226.14.61:4022/udp/239.45.1.109:5140
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视IPV4",CCTV3
-http://xeace.cn:8888/udp/239.93.1.11:2223
+http://home.yulei.online:9999/rtp/226.0.2.208:9576
 http://116.226.14.61:4022/udp/239.45.1.68:5140
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视IPV4",CCTV4
-http://xeace.cn:8888/udp/239.93.1.105:5140
+http://home.yulei.online:9999/rtp/226.0.2.156:9160
 http://116.226.14.61:4022/udp/239.45.0.2:5140
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视IPV4",CCTV5
-http://xeace.cn:8888/udp/239.93.42.37:5140
+http://home.yulei.online:9999/rtp/226.0.2.209:9584
 http://116.226.14.61:4022/udp/239.45.1.69:5140
 #EXTINF:-1,tvg-id="CCTV5PLUS" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视IPV4",CCTV5+
 http://xeace.cn:8888/udp/239.93.1.36:8004
 http://123.112.208.22:4022/rtp/239.3.1.130:8004
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视IPV4",CCTV6
 http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-http://xeace.cn:8888/udp/239.93.1.13:2226
+http://home.yulei.online:9999/rtp/226.0.2.210:9592
 http://116.226.14.61:4022/udp/239.45.1.70:5140
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视IPV4",CCTV7
-http://xeace.cn:8888/udp/239.93.1.67:5140
+http://home.yulei.online:9999/rtp/226.0.2.159:9184
 http://116.226.14.61:4022/udp/239.45.3.56:5140
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视IPV4",CCTV8
 http://xeace.cn:8888/udp/239.93.42.39:5140
