@@ -456,8 +456,10 @@ hhttps://www.youtube.com/watch?v=quwqlazU-c8
 https://www.youtube.com/watch?v=rO9tl-LyaZo
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 #EXTINF:-1 tvg-id=",民视新闻" tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="台湾频道",民视新闻
+rtmp://f13h.mine.nu/sat/tv051
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-id=",台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="台湾频道",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 https://www.youtube.com/watch?v=xL0ch83RAK8
 #EXTINF:-1 tvg-id=",三立新闻" tvg-name="三立新闻" tvg-logo="https://live.fanmingming.com/tv/SETInews.png" group-title="台湾频道",三立新闻
 https://www.youtube.com/watch?v=oZdzzvxTfUY
