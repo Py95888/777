@@ -81,11 +81,14 @@ http://115.150.91.247:4022/udp/239.252.219.93:5140
 http://115.150.91.247:4022/udp/239.252.219.94:5140
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视IPV4",凤凰资讯
 http://171.213.141.44:8123/udp/239.93.1.4:2191
+http://www.lebaobei.top:6868/udp/239.255.30.70:8231
 https://judy.567852.xyz/live/ae3900e56a3cb77927f956f1dbdc98399fac7de05411cba2758b874305a0a9bc.m3u8?token=597874560587564
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视IPV4",凤凰中文
 http://171.213.141.44:8123/udp/239.93.0.162:2192
+http://www.lebaobei.top:6868/udp/239.255.30.50:8231
 https://judy.567852.xyz/live/550abcad63de3b79b806c11600a26dda450d3780452907381cb76c3d838a9e31.m3u8?token=597874560587564
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视IPV4",凤凰香港
+http://www.lebaobei.top:6868/udp/239.255.30.123:8231
 https://judy.567852.xyz/live/7b9e525cb14bca36e36a81784b82af99615ff8dcdced6177fbafa734d41c1458.m3u8?token=597874560587564
 #EXTINF:-1 tvg-id="汕头经济" tvg-name="汕头经济" tvg-logo="https://live.fanmingming.com/tv/汕头经济.png" group-title="卫视IPV4",汕头经济
 http://113.76.149.122:4022/udp/239.77.1.131:5146
@@ -422,11 +425,14 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
 http://171.213.141.44:8123/udp/239.93.1.4:2191
+http://www.lebaobei.top:6868/udp/239.255.30.70:8231
 https://judy.567852.xyz/live/ae3900e56a3cb77927f956f1dbdc98399fac7de05411cba2758b874305a0a9bc.m3u8?token=597874560587564
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港频道",凤凰中文
 http://171.213.141.44:8123/udp/239.93.0.162:2192
+http://www.lebaobei.top:6868/udp/239.255.30.50:8231
 https://judy.567852.xyz/live/550abcad63de3b79b806c11600a26dda450d3780452907381cb76c3d838a9e31.m3u8?token=597874560587564
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港频道",凤凰香港
+http://www.lebaobei.top:6868/udp/239.255.30.123:8231
 https://judy.567852.xyz/live/7b9e525cb14bca36e36a81784b82af99615ff8dcdced6177fbafa734d41c1458.m3u8?token=597874560587564
 http://180.142.220.251:8181/tsfile/live/1084_1.m3u8
 #EXTINF:-1,tvg-id="wwe" tvg-name="wwe" tvg-logo="https://gitee.com/py777/py/raw/master/wwe.png" group-title="香港频道",WWE
