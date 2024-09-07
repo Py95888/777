@@ -86,7 +86,7 @@ http://118.113.146.108:8888/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视IPV4",凤凰香港
 http://www.lebaobei.top:6868/udp/239.255.30.123:8231
 #EXTINF:-1 tvg-id="汕头经济" tvg-name="汕头经济" tvg-logo="https://live.fanmingming.com/tv/汕头经济.png" group-title="卫视IPV4",汕头经济
-http://113.76.149.122:4022/udp/239.77.1.131:5146
+http://113.117.107.53:8800/udp/239.77.1.131:5146
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="卫视IPV4",第一财经
 http://180.172.83.48:8888/udp/239.45.3.211:5140
 #EXTINF:-1 tvg-id="法制天地" tvg-name="法制天地" tvg-logo="https://live.fanmingming.com/tv/SITV法治天地.png" group-title="卫视IPV4",法制天地
@@ -178,7 +178,7 @@ http://180.172.83.48:8888/udp/239.45.0.4:5140
 #EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视IPV4",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 #EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视IPV4",大湾区卫视
-http://113.76.149.122:4022/udp/239.77.0.9:5146
+http://113.117.107.53:8800/udp/239.77.0.9:5146
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视IPV4",西藏卫视
 http://180.172.83.48:8888/udp/239.45.1.231:5140
 #EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视IPV4",兵团卫视
