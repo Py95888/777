@@ -351,9 +351,17 @@ https://judy.567852.xyz/live/81e111406fbf41dd4645893fbcdc42a5f33a02b4cdbcaa5929b
 https://judy.567852.xyz/live/508e5d02f7c8089162d60e3ebee79a8591a453810215f7879023581b9f9c1f03.m3u8?token=597874560568421
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER FREE" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="TVB香港", myTV SUPER FREE
 https://judy.567852.xyz/live/03de0535a912c72ef4c0c7b98be72657b08cd5e1c813b0f80bc36f1c3f483b21.m3u8?token=597874560568421
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="mewatch SG" ,HBO (Sg) 
+https://token.567852.xyz/stream/tvb/hbosg/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc 
+#EXTINF:-1 tvg-id="HBO Hits HD" group-title="mewatch SG" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="mewatch SG",HBO Hits (Sg) https://token.567852.xyz/stream/tvb/hbohitssg/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc 
+#EXTINF:-1 tvg-id="HBO-Family-East" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="mewatch SG",HBO Family (Sg) https://token.567852.xyz/stream/tvb/hbofamilysg/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc 
+#EXTINF:-1 tvg-id="HBO-Signature" tvg-logo="https://www.mncvision.tv/userfiles/image/channel/hbo_signature.png" group-title="mewatch SG",HBO Signature (Sg) https://token.567852.xyz/stream/tvb/hbosignaturesg/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc 
+#EXTINF:-1 tvg-id="Cinemax-West" tvg-name="Cinemax-West" group-title="mewatch SG" tvg-logo="", CINEMAX https://token.567852.xyz/stream/tvb/cinemaxhd/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc 
+#EXTINF:-1 group-title="mewatch SG" tvg-id="997" tvg-chno="997" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 HD https://token.567852.xyz/stream/tvb/channel5hd/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc 
+#EXTINF:-1 group-title="mewatch SG" tvg-id="998" tvg-chno="998" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 HD https://token.567852.xyz/stream/tvb/channel8hd/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+ #EXTINF:-1 group-title="mewatch SG" tvg-id="999" tvg-chno="999" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U HD https://token.567852.xyz/stream/tvb/channeluhd/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc 
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="4GTV", 民視
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv155
-
+https://4gtv.livednow.us.kg/litv/4gtv-4gtv15
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="4GTV", 民視第一台
 https://4gtv.livednow.us.kg/litv/4gtv-4gtv003
 
