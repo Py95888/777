@@ -317,6 +317,8 @@ https://judy.567852.xyz/live/e003d224d1c2098b0eb27a6d3e61de6a97069dfcb892b372686
 https://judy.567852.xyz/live/f4f8bb7bd134ece4ecf3c5b17c7a3fbc02e09e36b2f85393f4b9197d72beca64.m3u8?token=597874560590348
 #EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png" group-title="TVB香港", 天映經典頻道
 https://judy.567852.xyz/live/89fc890291d221eef8e43a2f517305889f562405584f9c25c1c49a88ba1be045.m3u8?token=597874560590348
+#EXTINF:-1 tvg-id="天映頻道" tvg-name="天映頻道" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-title="TVB香港", 天映頻道（马来）
+https://console.567852.xyz/stream/tvb/celestialmovies/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="戲曲台" tvg-name="戲曲台" tvg-logo="https://assets.livednow.com/logo/戲曲台.png" group-title="TVB香港", 戲曲台
 https://judy.567852.xyz/live/80764ed0be5a4fc928cf21f595cb5fdeabe116b5ec8add4aa275026e15c37559.m3u8?token=597874560590348
 #EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://assets.livednow.com/logo/粵語片台.png" group-title="TVB香港", 粵語片台
