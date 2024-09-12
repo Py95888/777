@@ -191,9 +191,9 @@ p3p://fccsen.dyndns.tv:29706/5b987ab5000ef7018744e50174a621bd
 #EXTINF:-1,tvg-id="UFC" tvg-name="UFC" tvg-logo="https://gitee.com/py777/py/raw/master/UFC.png" group-title="香港频道",UFC pass
 p3p://fccsen.dyndns.tv:29706/5c4a5ad2000ba3f2fbdd8ccf71297ceb
 #EXTINF:-1,tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://epg.v1.mk/logo/Now爆谷台.png" group-title="香港频道",Now 爆谷台
-https://sxj.livednow.us.kg/ziyong?id=baogu-movies
+https://sxj.livednow.us.kg/cao?id=baogu-movies
 #EXTINF:-1,tvg-id="NOW星影台" tvg-name="NOW星影台" tvg-logo="https://epg.v1.mk/logo/NOW星影台.png" group-title="香港频道",Now 星影台
-http://cdn12.1678520.xyz/live/live1.1.php?id=xyt
+https://console.567852.xyz/stream/tvb/nowsuperstars/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 https://mytvb.livednow.us.kg/stream/tvb/nowsuperstars/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="香港频道",TVBPlus
 https://judy.567852.xyz/live/f50dcac048b74194371870935b9e6bb75d5dab06108d101f22d0e88805dc45e1.m3u8?token=597874560590348
