@@ -324,14 +324,13 @@ http://61.221.215.25:8800/hls/55/index.m3u8
 #EXTINF:-1 tvg-id=",新加坡8视界" tvg-name="新加坡8视界" tvg-logo="https://gitee.com/py777/py/raw/master/xjp.png" group-title="台湾频道",新加坡8视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="台湾频道",HBO
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8580/.m3u8
-mitv://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
+https://console.567852.xyz/stream/tvb/hbosg/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="HBOHits" tvg-name="HBOHits" tvg-logo="https://live.fanmingming.com/tv/HBOHits.png" group-title="台湾频道",HBO Hits
+https://console.567852.xyz/stream/tvb/hbohitssg/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="HBOFamily" tvg-name="HBOFamily" tvg-logo="https://live.fanmingming.com/tv/HBOFamily.png" group-title="台湾频道",HBO Family
-mitv://generationnexxxt.com:19806/8a0208ebdfa04b5eab112f0c8b01719c
-#EXTINF:-1,tvg-id="HBOSignature" tvg-name="HBOSignature" tvg-logo="https://live.fanmingming.com/tv/HBOSignature.png" group-title="台湾频道",HBO原创巨献
-mitv://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
-#EXTINF:-1,tvg-id="HBOHits" tvg-name="HBOHits" tvg-logo="https://live.fanmingming.com/tv/HBOHits.png" group-title="台湾频道",HBO强档巨献
-mitv://generationnexxxt.com:19806/563a5981b8ad4df085b59ce98bbecb95
+https://console.567852.xyz/stream/tvb/hbofamilysg/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="HBOSignature" tvg-name="HBOSignature" tvg-logo="https://live.fanmingming.com/tv/HBOSignature.png" group-title="台湾频道",HBO Signature
+tps://console.567852.xyz/stream/tvb/hbosignaturesg/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://i.imgur.com/KdJi9af.png" tvg-id="DaAi 1",DaAi 1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://i.imgur.com/KdJi9af.png" tvg-id="DaAi 2",DaAi 2
