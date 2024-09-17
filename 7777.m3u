@@ -224,6 +224,8 @@ https://judy.567852.xyz/live/ae3900e56a3cb77927f956f1dbdc98399fac7de05411cba2758
 https://judy.567852.xyz/live/550abcad63de3b79b806c11600a26dda450d3780452907381cb76c3d838a9e31.m3u8?token=597874560570438
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港频道",凤凰香港
 https://judy.567852.xyz/live/7b9e525cb14bca36e36a81784b82af99615ff8dcdced6177fbafa734d41c1458.m3u8?token=597874560570438
+#EXTINF:-1 tvg-id="iQIYI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="香港频道", IQIYI HD
+https://console.567852.xyz/stream/tvb/iqiyihd/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1,tvg-id="wwe" tvg-name="wwe" tvg-logo="https://gitee.com/py777/py/raw/master/wwe.png" group-title="香港频道",WWE
 p3p://fccsen.dyndns.tv:29706/5b987ab5000ef7018744e50174a621bd
 #EXTINF:-1,tvg-id="UFC" tvg-name="UFC" tvg-logo="https://gitee.com/py777/py/raw/master/UFC.png" group-title="香港频道",UFC pass
