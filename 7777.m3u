@@ -7,17 +7,13 @@ http://enlen.vip:4022/udp/239.200.201.34:8148
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
 http://enlen.vip:4022/udp/239.200.201.31:8144
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1
-http://origin.lean.org.cn:4000/udp/239.45.3.145:5140
-http://enlen.vip:4022/udp/239.200.201.135:8880
+http://home.isvvv.com:5050/itv/ystenlive/1000000005000265001
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV2
-http://enlen.vip:4022/udp/239.200.200.104:8084
-http://origin.lean.org.cn:4000/udp/239.45.1.109:5140
+http://home.isvvv.com:5050/itv/ystenlive/1000000005000265002
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV3
-http://enlen.vip:4022/udp/239.200.200.18:9008
-http://origin.lean.org.cn:4000/udp/239.45.1.68:5140
+http://home.isvvv.com:5050/itv/ystenlive/1000000005000265003
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV4
-http://origin.lean.org.cn:4000/udp/239.45.0.2:5140
-http://enlen.vip:4022/udp/239.200.200.128:8652
+http://home.isvvv.com:5050/itv/ystenlive/1000000005000265004
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV5
 http://origin.lean.org.cn:4000/udp/239.45.1.69:5140
 #EXTINF:-1,tvg-id="CCTV5PLUS" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV5+
