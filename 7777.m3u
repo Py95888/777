@@ -1,30 +1,24 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml"
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
-http://117.41.138.73:9999/udp/239.252.219.84:5140
+http://enlen.vip:4022/udp/239.200.201.30:8140
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视频道",CHC影迷电影
-http://117.41.138.73:9999/udp/239.252.219.83:5140
+http://enlen.vip:4022/udp/239.200.201.34:8148
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
-http://117.41.138.73:9999/udp/239.252.219.85:5140
+http://enlen.vip:4022/udp/239.200.201.31:8144
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1
-http://113.25.206.107:9901/tsfile/live/0001_1.m3u8
-http://117.41.138.73:9999/udp/239.252.219.200:5140
 http://116.232.23.255:8888/udp/239.45.3.145:5140
+http://enlen.vip:4022/udp/239.200.201.135:8880
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV2
-http://113.25.206.107:9901/tsfile/live/0002_1.m3u8
-http://117.41.138.73:9999/udp/239.252.220.183:5140
 http://116.232.23.255:8888/udp/239.45.1.109:5140
+http://enlen.vip:4022/udp/239.200.200.104:8084
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV3
-http://113.25.206.107:9901/tsfile/live/0003_1.m3u8
-http://117.41.138.73:9999/udp/239.252.219.252:5140
+http://enlen.vip:4022/udp/239.200.200.18:9008
 http://116.232.23.255:8888/udp/239.45.1.68:5140
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV4
-http://113.25.206.107:9901/tsfile/live/0004_1.m3u8
-http://117.41.138.73:9999/udp/239.252.220.184:5140
 http://116.232.23.255:8888/udp/239.45.0.2:5140
+http://enlen.vip:4022/udp/239.200.200.128:8652
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV5
-http://113.25.206.107:9901/tsfile/live/0005_1.m3u8
-http://117.41.138.73:9999/udp/239.252.219.198:5140
 http://116.232.23.255:8888/udp/239.45.1.69:5140
 #EXTINF:-1,tvg-id="CCTV5PLUS" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV5+
 http://113.25.206.107:9901/tsfile/live/0018_1.m3u8
