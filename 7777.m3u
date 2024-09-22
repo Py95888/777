@@ -73,9 +73,9 @@ http://171.213.133.3:9999/udp/239.93.0.162:2192
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-id="汕头经济" tvg-name="汕头经济" tvg-logo="https://live.fanmingming.com/tv/汕头经济.png" group-title="卫视频道",汕头经济
 http://116.23.139.108:4000/udp/239.77.1.131:5146
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="卫视频道",第一财经
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="卫视频道",第一财经
 http://116.226.74.224:18888/udp/239.45.3.211:5140
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="卫视频道",东方财经
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="卫视频道",东方财经
 http://60.168.224.192:2000/rtp/238.1.78.73:6456
 #EXTINF:-1 tvg-id="法制天地" tvg-name="法制天地" tvg-logo="https://live.fanmingming.com/tv/SITV法治天地.png" group-title="卫视频道",法制天地
 http://116.226.74.224:18888/udp/239.45.1.46:5140
