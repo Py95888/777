@@ -162,7 +162,7 @@ https://sxj.livednow.us.kg/cao?id=baogu-movies
 #EXTINF:-1,tvg-id="NOW星影台" tvg-name="NOW星影台" tvg-logo="https://epg.v1.mk/logo/NOW星影台.png" group-title="香港频道",Now 星影台
 https://console.567852.xyz/stream/tvb/nowsuperstars/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="香港频道",TVBPlus
-https://console.567852.xyz/stream/tvb/tvbplus/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+http://cdn5.1678520.xyz/live/live1.1.php?id=tvbp
 https://console.567852.xyz/stream/tvb/tvbplus/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="香港频道",TVB翡翠台
 https://judy.567852.xyz/live/bf67f424cb2ee1205cc421f51b0efbec6935956ec1fdaf6b65988f2369239bf1.m3u8?token=597874560570438
