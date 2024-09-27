@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml"
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
-http://59.172.86.59:8686/rtp/239.69.1.243:11100
+http://27.16.219.181:4022/rtp/239.69.1.243:11100
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视频道",CHC影迷电影
-http://59.172.86.59:8686/rtp/239.69.1.241:11088
+http://27.16.219.181:4022/rtp/239.69.1.241:11088
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
-http://59.172.86.59:8686/rtp/239.69.1.242:11094
+http://27.16.219.181:4022/rtp/239.69.1.242:11094
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://124.112.208.4:5555/rtp/238.1.78.166:7200
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV2
