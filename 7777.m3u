@@ -489,11 +489,6 @@ http://125.227.210.55:8165/VideoInput/play.ts
 http://61.221.215.25:8800/hls/9/index.m3u8
 
 
-#EXTINF:-1,tvg-id="NOWSPORTSPLUS" tvg-name="NOWSPORTSPLUS" tvg-logo="https://epg.v1.mk/logo/NOWSPORTSPLUS.png" group-title="体育",Now英超4k
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1470622&extension=ts&play_token=cz0uC6059H&sn2=
-
-
-
 #EXTINF:-1 tvg-id="333.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Hua_Hee_Dai_v1.png" group-title="TVB「香港」",Hua Hee Dai
 https://console.567852.xyz/stream/tvb/huaheedai/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
