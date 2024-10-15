@@ -66,7 +66,7 @@ http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-id="汕头经济" tvg-name="汕头经济" tvg-logo="https://live.fanmingming.com/tv/汕头经济.png" group-title="卫视频道",汕头经济
-http://116.18.39.125:4000/udp/239.77.1.131:5146
+http://120.77.205.62:8087/udp/239.253.43.46:5146
 #EXTINF:-1,tvg-id="HKS" tvg-name="HKS" tvg-logo="https://i.imgur.com/UhwlxwL.png" group-title="卫视频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1,tvg-id="亚洲卫视" tvg-name="亚洲卫视" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/ATV_logo_2008.png/revision/latest?cb=20220319232517&path-prefix=vi" group-title="卫视频道",亚洲卫视
