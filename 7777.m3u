@@ -268,9 +268,9 @@ http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-id="耀才财经" tvg-name="耀才财经" tvg-logo="https://live.fanmingming.com/tv/耀才财经.png" group-title="香港频道",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1,tvg-id="HKC18" tvg-name="HKC18" tvg-logo="https://gitee.com/py777/py/raw/master/hkc.png" group-title="香港频道",HKC18
-https://console.567852.xyz/stream/tvb/mytvsuper18/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://gitee.com/py777/py/raw/master/Thrill_logo.png" group-title="香港频道",Thrill
-https://console.567852.xyz/stream/tvb/thrill/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+https://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1,tvg-id="Popc" tvg-name="Popc" tvg-logo="https://gitee.com/py777/py/raw/master/PopC01.png" group-title="香港频道",Popc
+https://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-id="NHK-World-Japan" tvg-name="NHK World-Japan" tvg-logo="https://assets.livednow.com/logo/NHK-HK.png" group-title="香港频道", NHK World-Japan
 https://console.567852.xyz/stream/tvb/nhkworldjapan/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
