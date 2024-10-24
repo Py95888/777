@@ -271,11 +271,9 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 https://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 #EXTINF:-1,tvg-id="Popc" tvg-name="Popc" tvg-logo="https://gitee.com/py777/py/raw/master/PopC01.png" group-title="香港频道",Popc
 https://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-id="NHK-World-Japan" tvg-name="NHK World-Japan" tvg-logo="https://assets.livednow.com/logo/NHK-HK.png" group-title="香港频道", NHK World-Japan
-https://console.567852.xyz/stream/tvb/nhkworldjapan/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
 #EXTINF:-1 tvg-id="tvbs亚洲台" tvg-name="tvbs亚洲台" tvg-logo="https://assets.livednow.com/logo/無線衛星亞洲台.png" group-title="台湾频道", tvbs亚洲台
-https://console.567852.xyz/stream/tvb/cts1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+https://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-id="tvbs新闻" tvg-name="tvbs新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="台湾频道",tvbs新闻
 https://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 http://61.221.215.25:8800/hls/9/index.m3u8
