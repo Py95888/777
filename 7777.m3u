@@ -314,7 +314,7 @@ https://www.youtube.com/watch?v=oZdzzvxTfUY
 http://61.221.215.25:8800/hls/41/index.m3u8
 mitv://generationnexxxt.com:19806/7a5b874b630d457bb5997a2fe4690550
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="台湾频道", 华视
-rtmp://f13h.mine.nu/sat/tv111
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 #EXTINF:-1 tvg-id=",华视新闻" tvg-name="华视新闻" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="台湾频道",华视新闻
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
 #EXTINF:-1 tvg-id=",东森新闻" tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/EBCNews.png" group-title="台湾频道",东森新闻
