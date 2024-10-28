@@ -242,6 +242,12 @@ http://aktv.top/AKTV/live/aktv/tvb/AKTV.m3u8
 https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1,tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="https://gitee.com/py777/py/raw/master/TvbEN.png" group-title="香港频道",TVB娱乐新闻台
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:-1,tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://epg.v1.mk/logo/Now爆谷台.png" group-title="香港频道",Now 爆谷台
+https://sxj.livednow.us.kg/cao?id=baogu-movies
+#EXTINF:-1,tvg-id="NOW星影台" tvg-name="NOW星影台" tvg-logo="https://epg.v1.mk/logo/NOW星影台.png" group-title="香港频道",Now 星影台
+http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
+#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://gitee.com/py777/py/raw/master/matv.png" group-title="香港频道",美亚电影
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="香港频道",AMC电影台
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-id="环球电视台" tvg-name="环球电视台" tvg-logo="https://live.fanmingming.com/tv/环球电视台.png" group-title="香港频道",环球电视台
